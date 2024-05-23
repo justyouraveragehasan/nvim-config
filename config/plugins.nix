@@ -49,7 +49,7 @@ plugins = {
 	clangd.enable = true;
 	
 	#rust 
-	rust_analyser.enable = true;
+	rust-analyzer.enable = true;
 	
 	#need to add embedded depending on how it all works
 

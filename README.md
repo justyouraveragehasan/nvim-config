@@ -1,6 +1,6 @@
 # Nixvim Setup
 
-## Testing your new configuration
+## Running this configuration
 
 To run this, clone the repo and run 
 

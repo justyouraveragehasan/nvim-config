@@ -34,7 +34,7 @@ plugins = {
 
   #language servers
   lsp = {
-    enable = true;
+    enable = false;
     servers = {
 	#nix
 	nil_ls.enable = true;

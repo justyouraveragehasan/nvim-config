@@ -24,8 +24,8 @@ plugins = {
         "2" = "<leader>2";
         "3" = "<leader>3";
         "4" = "<leader>4";
+        };
     };
-  };
   };
   #automatically close brackets and quotes
   nvim-autopairs.enable = true;
@@ -34,7 +34,7 @@ plugins = {
 
   #language servers
   lsp = {
-    enable = false;
+    enable = true;
     servers = {
 	#nix
 	nil_ls.enable = true;
